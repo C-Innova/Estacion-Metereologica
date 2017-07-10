@@ -52,13 +52,6 @@
 #include <RainDrop.h>           // librería para sensor de caída de lluvia
 #include <Temperature.h>        // librería para sensor de temperatura y humedad de aire
 
-//----- Librería para conexión bluetooth ---------------------
-//#include <SoftwareSerial.h>
-//
-//SoftwareSerial BTserial(10, 11); // RX | TX
-//
-//int sensorPin = A0;
-//int sensorValue = 0;
 
 // ----- Crear los objetos para cada uno de los sensores -----
 MyLCD mylcd;
