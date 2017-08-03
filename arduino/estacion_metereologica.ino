@@ -68,7 +68,7 @@ void setup() {
   Serial.begin(9600);
   mylcd.init();                 // iniciar la pantalla en tamaño 16x2 y encender la luz
   delay(1000);
-  BTserial.begin(9600);
+  Serial.begin(9600);
 }
 
 int wait = 1000;
