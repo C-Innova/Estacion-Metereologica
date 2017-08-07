@@ -73,5 +73,5 @@ $ git clone https://github.com/C-Innova/estacion-metereologica.git
 
 ## Licencias
 
-- Todo el software incluido en este proyecto está licenciado bajo la licencia MIT
-- Todos los documentos adicionales están licenciados bajo licencia Creative Commons CC BY-NC-SA 4.0
+- Todo el software incluido en este proyecto está licenciado bajo licencia <a href="https://github.com/C-Innova/estacion-metereologica/blob/master/MIT%20LICENSE">MIT</a>
+- Todos los documentos adicionales están licenciados bajo licencia <a href="https://github.com/C-Innova/estacion-metereologica/blob/master/CC-BY-NC-SA%204.0%20LICENSE">Creative Commons CC BY-NC-SA 4.0</a>
