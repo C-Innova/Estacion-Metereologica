@@ -67,7 +67,11 @@ $ git clone https://github.com/C-Innova/estacion-metereologica.git
 - Remite tus cambios a tu branch: git push origin my-new-feature
 - Envía un pull request :D
 
-#### Licencias
+## Colaboradores
+- <a href="https://github.com/jugarciasa">Juliana García Sarmiento</a>
+- <a href="https://github.com/pcuellar">Pedro Reynolds-Cuéllar</a>
+
+## Licencias
 
 - Todo el software incluido en este proyecto está licenciado bajo la licencia MIT
 - Todos los documentos adicionales están licenciados bajo licencia Creative Commons CC BY-NC-SA 4.0
