@@ -15,10 +15,12 @@
   [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 </p>
+Versión en inglés <a href="https://github.com/C-Innova/estacion-metereologica/blob/master/README.en.md">acá</a>
 
 <p></p>
 
 <p align="center"><img src="http://www.c-innova.org/wp-content/uploads/2017/08/estacion.jpg"></p>
+
 
 ## Resumen
 Aunque predecir el clima es imposible, entender patrones climáticos y trazar su comportamiento a través de la observación de variaciones en la cantidad de lluvia, el incremento en temperatura, humedad y presión atmosférica entre otros es posible. Este proyecto busca reducir los costos asociados al registro de algunas de estas condiciones metereológicas.
